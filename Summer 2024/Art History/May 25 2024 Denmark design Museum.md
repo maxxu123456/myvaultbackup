@@ -1,5 +1,5 @@
 ## Bauhaus
-It was a school founded in 1919 in Weimar Republic.  It was a school initially emphasizing traditional arts and crafts. Students were learning ceramics and hand making furniture. It soon shifted led de stigl , which emphasizes abstracted forms and also mechanical production. They shifted from traditional to new technology and materials. One of the leaders that come out of bauhaus is Marcel Breuer. His furniture typically , 1920s, focused mainly on new materials. Specifically tubular steel. His one chair that is typical of this is the b33 chair. What you find in these chairs is that they are often named their inventory numbers. 
+It was a school founded in 1919 in Weimar Republic.  It was a school initially emphasizing traditional arts and crafts. Students were learning ceramics and hand making furniture. It soon shifted to a movement called the **De Stijl** , which emphasized abstracted forms and mechanical production. They shifted from traditional to new technology and materials. One of the leaders that come out of bauhaus is Marcel Breuer. His furniture typically , 1920s, focused mainly on new materials. Specifically tubular steel. His one chair that is typical of this is the b33 chair. What you find in these chairs is that they are often named their inventory numbers. 
 
 ![[Pasted image 20240527074722.png]]
 B33 chair

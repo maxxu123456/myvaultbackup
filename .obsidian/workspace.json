@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "9f43f2d55a682c8e",
+    "type": "split",
+    "children": [
+      {
+        "id": "5f51225950e88efe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6404da3951df9242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Summer 2024/Art History/May 23 2024 Art History.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3d8e976c936f34bd",
+    "type": "split",
+    "children": [
+      {
+        "id": "2d4b9008c3870fb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0f3ec738e4ddbd44",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e7aa9a068e908762",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "185e7339232ac590",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 343.5
+  },
+  "right": {
+    "id": "3918b804c204e05b",
+    "type": "split",
+    "children": [
+      {
+        "id": "1de26c7e66b5aa52",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6611d4cbc714a821",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Summer 2024/Art History/May 23 2024 Art History.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a5d519445fbcb663",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "11f899aca5bee382",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Summer 2024/Art History/May 23 2024 Art History.md"
+              }
+            }
+          },
+          {
+            "id": "28b2ce3c8d9559e4",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Summer 2024/Art History/May 23 2024 Art History.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78b2cfe84ef5a400",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "audio-recorder:Start/stop recording": false,
+      "oz-clear-unused-images:Clear Unused Images": false
+    }
+  },
+  "active": "6404da3951df9242",
+  "lastOpenFiles": [
+    "Summer 2024/Art History/May 23 2024 Museum Notes.md",
+    "Summer 2024/Art History/May 25 2024 Denmark design Museum.md",
+    "Summer 2024/Art History/May 27 2024 Art History Notes.md",
+    "Summer 2024/Art History/May 23 2024 Art History.md",
+    "Summer 2024/Art History/May 28 2024 - Hamburg Museum of Art and History and hamburger kusthalle.md",
+    "Summer 2024/Art History/May 31 2024 Muesum notes.md",
+    "Summer 2024/Art History/Notes.md",
+    "Summer 2024/Art History/June 1 2024 Museum Notes.md",
+    "Summer 2024/Art History/European History.md",
+    "Tiny Shakespeare.md",
+    "Texting Advice.md",
+    "Summer 2024/Art History/May 31 2024 Art History Notes.md",
+    "Attatchments/Pasted image 20240602151309.png",
+    "Attatchments/Pasted image 20240602151212.png",
+    "Spring 2024/CS2050/CS2050 Syllabus.pdf",
+    "Spring 2024/CS2050/Boolean Algebra.md",
+    "Spring 2024/Phys 2213/J F James - A student's guide to Fourier transforms _ with applications in physics and engineering-Cambridge University Press (2011).pdf",
+    "Spring 2024/CS2340/CS2340_SecondProject (1).pdf",
+    "Fall 2023/ISYE3770/20231205_FinalReview.pdf",
+    "Fall 2023/ISYE3770/formulae_final.pdf",
+    "Spring 2024/CS2340/Lecture 8.md",
+    "Fall 2023/CS1331/Final Exam Review Lecture CS1331.pdf",
+    "Summer 2024/Music/HaydonSyllabus2024.pdf",
+    "Spring 2024/CS1332/Galil Rule Slides.pdf",
+    "Spring 2024/Phys 2213/Test.md",
+    "Spring 2024/Phys 2213/Special Relativity.md",
+    "Spring 2024/Phys 2213/Quantum Mechanics.md",
+    "Spring 2024/Phys 2213/Notes For Midterm.md",
+    "Spring 2024/Phys 2213/Fourier Transform.md",
+    "Mini Motors/Questions for DRM Presentation.md",
+    "Attatchments/Recording 20240225184313.m4a",
+    "Attatchments/Pasted image 20240602145555.png",
+    "Attatchments/Pasted image 20240602145442.png",
+    "Attatchments/Pasted image 20240602145306.png",
+    "Attatchments/Pasted image 20240602145154.png",
+    "Attatchments/Pasted image 20240602145042.png",
+    "Attatchments/Pasted image 20240527082257.png",
+    "Schedule.md",
+    "Scratch Latex.md",
+    "Untitled.md",
+    "Untitled.canvas",
+    "Untitled 3.canvas",
+    "Untitled 2.canvas",
+    "Untitled 1.md",
+    "Untitled 1.canvas",
+    "2024-04-28.md",
+    "Attatchments/image.jpg",
+    "Attatchments/image 2.jpg"
+  ]
+}

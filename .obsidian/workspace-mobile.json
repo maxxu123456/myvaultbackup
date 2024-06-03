@@ -1,0 +1,180 @@
+{
+  "main": {
+    "id": "e22422f6cde6c942",
+    "type": "split",
+    "children": [
+      {
+        "id": "503237c847b692b4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "45505d1664887d4c",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dd0773853d9853d5",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c4cf99fbe1eca7ad",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "071b3e077078e25c",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "Hellfire",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "a892669dc77842c3",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "a283c16b3bf34ffa",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 1
+  },
+  "right": {
+    "id": "cc2824f6e278c653",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "efc390cba42eb776",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "9b10f30a3f7a9056",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "12b01e959912e514",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "oz-clear-unused-images:Clear Unused Images": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "071b3e077078e25c",
+  "lastOpenFiles": [
+    "Summer 2024/Art History/May 31 2024 Muesum notes.md",
+    "Summer 2024/Art History/June 1 2024 Museum.md",
+    "Summer 2024/Art History/May 31 2024 Art History.md",
+    "Summer 2024/Music/Notes on May 28 2024 Concert - Variations on a theme of Joseph Haydn.md",
+    "Summer 2024/Art History/May 28 2024 - Hamburg Museum of Art and History and hamburger kusthalle.md",
+    "Attatchments/image 2.jpg",
+    "Attatchments/IMG_7933.jpeg",
+    "Attatchments/IMG_7931.webp",
+    "Attatchments/IMG_7930.jpeg",
+    "Attatchments/IMG_7929.jpeg",
+    "Attatchments/image 1.jpg",
+    "Attatchments/image.jpg",
+    "Summer 2024/Music/May 28 2024 museum for art and history hamburg.md",
+    "Summer 2024/Art History/European History.md",
+    "Summer 2024/Art History/May 25 2024 Denmark design Museum.md",
+    "Attatchments/Pasted image 20240525135029.png",
+    "Summer 2024/Art History/May 23 2024 Art History.md",
+    "Summer 2024/Art History/Notes.md",
+    "Summer 2024/Music/Baroque Period 1600-1750.md",
+    "Summer 2024/Music/Romantic Period 1820 - 1900.md",
+    "Summer 2024/Music/Classical Period 1750-1825.md",
+    "Summer 2024/Music/Notes.md",
+    "Poems/This Is Just To Say.md",
+    "Poems/Living in Sin.md",
+    "Poems/Curiosity.md",
+    "Mini Motors/Questions for DRM Presentation.md",
+    "Fall 2023/CS1331/Final Exam Review Lecture CS1331.pdf",
+    "Fall 2023/CS1331/Exam 3 Notes.md",
+    "Fall 2023/CS1331/Searching.md",
+    "Fall 2023/CS1331/HW7.md",
+    "Spring 2024/CS2340/CS2340_SecondProject (1).pdf",
+    "Spring 2024/CS2050/CS2050 Syllabus.pdf",
+    "Spring 2024/CS2050/Rules of Inference.md",
+    "Spring 2024/CS1332/Exam 3 Review.md",
+    "Fall 2023/Chinese 1001/Final Review.md",
+    "Spring 2024/CS2050/Big O.md",
+    "Spring 2024/CS2050/Proof Part 3.md",
+    "Attatchments/Introduction to Merge Sort CS 1332 Spring 2024 - CAMPUS (In-.mp4",
+    "Attatchments/Introduction to Radix Sort CS 1332 Spring 2024 - CAMPUS (In-.mp4",
+    "Attatchments/In-Place Quicksort Examples CS 1332 Spring 2024 - CAMPUS (In.mp4",
+    "Attatchments/Boyer-Moore Tracing, Example 1 CS 1332 Spring 2024 - CAMPUS .mp4",
+    "Attatchments/Introduction to KMP Preprocessing The Failure Table CS 1332 .mp4",
+    "Attatchments/Merge Sort, Example 1 Part 1 CS 1332 Spring 2024 - CAMPUS (I 1.mp4",
+    "Attatchments/Merge Sort, Example 1 Part 1 CS 1332 Spring 2024 - CAMPUS (I.mp4",
+    "Attatchments/Pasted image 20240412141806.png",
+    "Attatchments/Pasted image 20240409185606.png",
+    "Untitled 2.canvas",
+    "Untitled 1.canvas",
+    "Untitled.canvas"
+  ]
+}

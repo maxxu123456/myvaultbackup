@@ -1,0 +1,1 @@
+Show that $4x!\leq 2Cx^x$ for all $x>k$. Let C=2. $x!\leq x^x\to \underbrace{x(x-1)(x-2)\dots(1)}_{\text{x times}}\leq \underbrace{x\cdot x\cdot x\dots \cdot x}_{\text{x times}}$ Clearly the left hand side is always less for $x>1$, so we get that $k=1$. With witnesses, $C=2,k=1$, we have shown that $f(x)$ is $O(g(x))$.

@@ -3,7 +3,7 @@ Periods:
 - German Romanticism
 
 Artists:
-- Master of the Playing Card
+- Master of the Playing Cards
 - Martin Schongauer
 - Albrecht Dürer
 - Lucas Cranach the Elder
@@ -144,7 +144,7 @@ This is the first time as we see landscape as the subject of an altar. The focus
 
 This is a landscape painting. The earliest landscape paintings that we have go back to the 14th century. Eventually landscape becomes an idea of the French Royal Academy. They tend to be tiny little views of the land. Friedrich takes a different approach to landscape. It is a seascape. There is a storm that represents Napoleon.
 
-The monk is a Capuchin monk. The Capuchins were an order that are identifiable by their clothes which have a hood. The storm foreshadows Napolean. By placing the monk in that place, it is a meditation of death. This is where we feel small.
+The monk is a **Capuchin** monk. The Capuchins were an order that are identifiable by their clothes which have a hood. The storm foreshadows Napolean. By placing the monk in that place, it is a meditation of death. This is where we feel small.
 
 
 

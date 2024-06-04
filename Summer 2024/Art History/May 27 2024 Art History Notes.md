@@ -1,14 +1,13 @@
 Architecture In Italy
 
 Terms:
-Pisa
-Duomo 1063-1328
-Baptestry 1153-14th century - Standalone structure  part of the chruch used for baptism
-Campanile 1174 - 14th century
-Camposanto - "Holy Field" which was typically part of complexes.
+- Pisa
+- Duomo 1063-1328
+- Baptestry 1153-14th century - Standalone structure  part of the chruch used for baptism
+- Campanile 1174 - 14th century
+- Camposanto - "Holy Field" which was typically part of church complexes.
 
-
-IN the 12th century, we see the rise of monumental church complexes. This is connected to power and prestige and is reliant on engineering innovations.
+In the 12th century, we see the rise of monumental church complexes. This is connected to power and prestige and is reliant on engineering innovations.
 
 ![[Pasted image 20240527081939.png]]
 Duomo in Pisa

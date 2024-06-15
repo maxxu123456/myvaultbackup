@@ -1,4 +1,6 @@
 Act 2
+0:46 is when act 2 begins
+
 1:08 the girl is in the closet
 
 1:12 Suzanne comes out the door

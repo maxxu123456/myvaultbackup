@@ -44,7 +44,7 @@ We use this image to explained inverted perspective. The subject of the image is
 ![[IMG_8282.jpeg]]
 Pieter Bruegel the Elder, *Tower of Babel*. 
 
-It is a biblical scene from the book of genesis. Everyone spoke the same language when in the grace of god. Humanity wanted to get closer to god so they built a tower. God didn’t like the tower and smashed it so difffere r languages form. It is very Italians since betel studies in Italy. He uses the knowledge of the colosseum to express the tower. There is also atmospheric perspective and a comprehensive landscape. 
+It is a biblical scene from the book of genesis. Everyone spoke the same language when in the grace of god. Humanity wanted to get closer to god so they built a tower. God didn’t like the tower and smashed it so different languages form. It is very Italianate since Bruegel studies in Italy. He uses the knowledge of the roman colosseum to express the tower. There is also atmospheric perspective and a comprehensive landscape. 
 
 ![[IMG_8283.jpeg]]
 Pieter Bruegel the Elder, *Hunters in the snow*
@@ -58,7 +58,7 @@ It was a winter scene. Before this, winter scenes were small in illuminated manu
 ![[IMG_8278.jpeg]]
 Johannes Vermeer, *Allegory of painting*, Dutch Baroque
 
-He was art collector and dealer and painter. We see an artist at work painting a painting of a female in front of the window. You see the artist from the back who has no identity. There is a muse. They were the bringers of divine wisdom. Light filtering through the window hints at divine light. The idea of the curtain revealing the scene is associated with Caravaggio. 
+He was art collector and dealer and painter. We see an artist at work painting a painting of a female in front of the window. You see the artist from the back who has no identity. The woman is a muse. They were the bringers of divine wisdom. Light filtering through the window hints at divine light. The idea of the curtain revealing the scene is associated with Caravaggio. 
 
 
 ![[IMG_8285.jpeg]]

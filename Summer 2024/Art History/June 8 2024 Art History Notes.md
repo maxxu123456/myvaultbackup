@@ -72,7 +72,7 @@ Dürer is creating his portrait in the image of Jesus. In the passage God is bas
 
 The difference between Dürer's and God's images, is that God gives life to his images. The turning of the gesture of benediction is denying the ability to bless. Dürer says that althoguh he looks like christ, he is not christ
 
-There is an inscription ("I, myself, Albrecht Dürer of Nuremberg painted myself of indelible colors painted at age 28") in the portrait that is written in Latin as opposed to German, which appeals to a **universal** audience. The word indelible means permanent. The portrati is using a mundane pallete, meaning that the colors are earth tones. The colors are color fast, which means that they don't fade.
+There is an inscription ("I, myself, Albrecht Dürer of Nuremberg painted myself of indelible colors painted at age 28") in the portrait that is written in Latin as opposed to German, which appeals to a **universal** audience. The word indelible means permanent. The portrait is using a mundane palette, meaning that the colors are earth tones. The colors are color fast, which means that they don't fade.
 
 ### Personal Aspect
 
@@ -112,7 +112,7 @@ Techniques
 - Pouncing (one of the two transfer techniques) - prick holes on contours of drawing, take a bag of charcoal dust, the dust goes through the holes. Connect the dots.
 - Incising - taking a blunt instruemnt and scoring the countour of the cartoon into the surface of the plaster.
 
-
+**Steps may be wrong**
 Steps
 1. Bare Wall - A wall that has been prepped.
 2. Arriccio - A material between the bare wall and the final layer.

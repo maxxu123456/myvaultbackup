@@ -135,7 +135,8 @@ Gustav Mahler (1860-1911)
 - Austro - Bohemian Romatnic composer, and one of the leading conductors of his generation
 - As a composer he acted as a bridge between the 19th century AustroGerman tradition and the modernism of the ealry 20th century
 - 1891-97 - was an opera conductor in Hamburg where he experienced consderable success.
-- In 1897, he moves to Vienna where he becomes one of the great opera conductors at the Stadtoper
+- In 1897, he moves to Vienna where he becomes one of the great opera conductors at the Stadtoperahuas
+- Responsible for turning down the lights
 
 
 Johannes Brahms (1833-1897)
